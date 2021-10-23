@@ -1,2 +1,0 @@
-# mysol
-And proj
